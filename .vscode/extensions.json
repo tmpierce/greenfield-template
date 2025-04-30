@@ -1,0 +1,15 @@
+{
+  "recommendations": [
+    "github.copilot",
+    "github.vscode-pull-request-github",
+    "streetsidesoftware.code-spell-checker",
+    "esbenp.prettier-vscode",
+    "dbaeumer.vscode-eslint",
+    "ms-python.python",
+    "ms-python.vscode-pylance",
+    "ritwickdey.liveserver",
+    "redhat.vscode-yaml",
+    "editorconfig.editorconfig",
+    "yzhang.markdown-all-in-one"
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "editor.formatOnSave": true,
+  "editor.codeActionsOnSave": {
+    "source.fixAll": true
+  },
+  "files.exclude": {
+    "**/.git": true,
+    "**/.DS_Store": true,
+    "**/node_modules": true,
+    "**/venv": true
+  },
+  "editor.rulers": [80, 100],
+  "editor.wordWrap": "on",
+  "files.insertFinalNewline": true,
+  "files.trimTrailingWhitespace": true
+}
